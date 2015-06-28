@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/alex/Desktop/android/OSchina/fancyColor/Android_TabBar_Sina/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">BeautifulTabTest</string>
+    <string name="hello">Hello World, main!</string>
+    <string name="main_comment">评论</string>
+    <string name="main_edit">编写</string>
+    <string name="main_home">首页</string>
+    <string name="main_message">私信</string>
+    <string name="main_reload">刷新</string>
+    <string name="more">更多</string>
+    <!-- From: file:/Users/alex/Desktop/android/OSchina/fancyColor/Android_TabBar_Sina/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="main_tab_bottom">
+         <item name="android:button">@null</item>  
+        <item name="android:layout_marginTop">2.0dip</item>
+        <item name="android:textSize">10.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>  
+        <item name="android:background">@drawable/tab_btn_bg</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">2.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+</resources>
